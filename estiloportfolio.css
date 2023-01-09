@@ -1,0 +1,35 @@
+body {
+    background-color: rgba(0, 195, 255, 0.842);
+    font: normal 15pt Arial;
+
+}
+
+header {
+    color: white;
+    text-align: center; /*Centralizar Texto */
+
+
+}
+
+section {
+    background-color: white;
+    border-radius: 10px; /* Colocar raio da borda */
+    width: 500px;  /* Colocar uma largura fixa na borda */
+    margin: auto; /* Centralizar */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.616);
+
+}
+
+div {
+    text-align: center;
+    
+}
+
+footer {
+    color: white;
+    text-align: center; /*Centralizar Texto */
+    font-style: italic;
+
+
+}
+
